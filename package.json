@@ -1,0 +1,17 @@
+{
+  "name": "scrapping-node",
+  "version": "1.0.0",
+  "description": "How to perform web-scrapping using Node.Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ankit Jain <ankitjain28may77@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "exceljs": "^4.1.1",
+    "express": "^4.16.4",
+    "nightmare": "^3.0.1"
+  }
+}
